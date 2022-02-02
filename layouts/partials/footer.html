@@ -5,8 +5,8 @@
       {{ .Site.Params.since }} -
     {{ end }}
     {{ now.Year }}
-    {{ with .Site.Params.author }} · {{ . }} All Rights Reserved {{ end }}
-    ·
+    {{ with .Site.Params.author }} · {{ . }} {{ end }}
+    · All Rights Reserved 
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
     {{ end }}
