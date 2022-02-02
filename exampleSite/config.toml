@@ -111,6 +111,11 @@ icon = "fa fa-2x fa-gitlab"
 weight = 2
 url = "https://gitlab.com/greyduck/"
 
+[[params.social]]
+name = "Mail"
+icon = "fa fa-2x fa-envelope"
+weight = 1
+url = "mailto:koushikv.sssihl@gmail.com"
 
 [[params.social]]
 name = "LinkedIn"
