@@ -163,6 +163,6 @@ PC won't wake after putting it in sleep mode. This is a very minor issue and is 
 
 Everything else works like a charm!
 
-![First successful installation of Hackintosh (macOS Mojave)](/static/pic3.jpg)
+![First successful installation of Hackintosh (macOS Mojave)](/images/pic3.jpg)
 *First successful installation of macOS Mojave on a Hackintosh*
 
