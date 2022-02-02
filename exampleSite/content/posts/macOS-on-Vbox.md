@@ -20,7 +20,7 @@ VBoxManage modifyvm Sierra --cpuidset 00000001 000306a9 04100800 7fbae3ff bfebfb
 
 Shown below is the picture of first successful boot of macOS Sierra from VirtualBox.
 
-![Successful installation of macOS Sierra on a virtual machine](/static/pic1.jpg)
+![Successful installation of macOS Sierra on a virtual machine]/images/pic1.jpg)
  
 
 #### Transferring files from host to guest machine
@@ -33,6 +33,6 @@ After a lot of trial and error, I came across this post (https://askubuntu.com/q
  
  Installed Logic Pro X on macOS Sierra very well knowing that VirtualBox would not be able to handle such heavy softwares.
 
- ![Logic Pro X running on macOS on a virtual machine](/static/pic2.png)
+ ![Logic Pro X running on macOS on a virtual machine](/images/pic2.png)
  
  As I tried to record a normal midi track, I started seeing glitches. The seek was not moving at all after the recording began but the midi data was getting saved as usual. Working with such a software on VBox was such a pain. Unable to record any further, I decided to uninstall the software but keep the OS for sometime just to get a hang of it.
