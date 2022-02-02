@@ -20,7 +20,7 @@ VBoxManage modifyvm Sierra --cpuidset 00000001 000306a9 04100800 7fbae3ff bfebfb
 
 Shown below is the picture of first successful boot of macOS Sierra from VirtualBox.
 
-![Successful installation of macOS Sierra on a virtual machine]/images/pic1.jpg)
+![Successful installation of macOS Sierra on a virtual machine](/images/pic1.jpg)
  
 
 #### Transferring files from host to guest machine
