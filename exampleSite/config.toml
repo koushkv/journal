@@ -139,5 +139,5 @@ url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Categories"
-weight = 3
+weight = 5
 url = "categories/"

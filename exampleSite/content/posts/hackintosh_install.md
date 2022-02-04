@@ -7,7 +7,7 @@ weight: 10
 comments: true
 readingtime: true
 tags: ["macOS", "Hackintosh", "Mojave"]
-categories:["Hackintosh"]
+categories: ["Hackintosh"]
 ---
 
 This is a quite comprehensive post on how I installed macOS Mojave on my PC. I have listed down the hardware specifications of my Hackintosh followed by the entire process I went through to install macOS on my PC. Good luck!
