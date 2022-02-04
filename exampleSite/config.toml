@@ -136,3 +136,8 @@ url = "about/"
 name = "Blog"
 weight = 2
 url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Categories"
+weight = 1
+url = "categories/"
