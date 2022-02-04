@@ -6,6 +6,7 @@ title: MacOS on Linux VirtualBox
 weight: 10
 comments: true
 tags: ["macOS", "VirtualBox", "File Sharing", "Samba"]
+categories:["Hackintosh"]
 ---
 
 

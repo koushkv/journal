@@ -5,7 +5,6 @@ title: First Post
 weight: 10
 comments: false
 tags: ["firstpost"]
-categories: ["Fun"]
 ---
 
 
