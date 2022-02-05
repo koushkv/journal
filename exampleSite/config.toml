@@ -16,7 +16,7 @@ author = "Koushik V"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Koushik's personal website"
 keywords = "blog,developer,personal"
-info = ["Welcome to my blog!", "Get up to date with my latest [posts](https://vkoushik.netlify.app/posts), and see what I'm up to [now](https://vkoushik.netlify.app/now)"]
+info = ["Get up to date with my latest [posts](https://vkoushik.netlify.app/posts), and see what I'm up to [now](https://vkoushik.netlify.app/now)"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"

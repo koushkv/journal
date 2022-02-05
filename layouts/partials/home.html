@@ -8,11 +8,11 @@
     {{ with .Site.Params.gravatar }}
       <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
     {{ end }}
-    <h1>Hi,</h1>
+    <h1>Hi, welcome to my blog!</h1>
     {{ if reflect.IsSlice .Site.Params.info }}
     <h3>{{ range .Site.Params.info }} {{ . | markdownify }}<br>{{ end}}</h3>
     {{ else }}
-    <p>{{ .Site.Params.info }} {{ . | markdownify }}</p>
+    <h3>{{ .Site.Params.info }} {{ . | markdownify }}</h3>
     {{ end }}
     {{ with .Site.Params.social }}
     <ul>
