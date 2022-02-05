@@ -17,7 +17,7 @@ The source code for this website lives in a git repository that you can find
 # Editing Layouts and Content
 
 I use [Hugo](https://gohugo.io), a static website generator, to turn
-[some HTML layouts](https://github.com/jamesbvaughan/jamesbvaughan.com/tree/master/layouts)
+[some HTML layouts](https://github.com/vikove/journal/tree/master/layouts)
 and [some Markdown](https://github.com/jamesbvaughan/jamesbvaughan.com/tree/master/content)
 into a bunch of HTML that I can serve as this website.
 
