@@ -1,4 +1,4 @@
-# [Blog](vkoushik.netlify.app)
+# [Blog](https://vkoushik.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/272327f2-f0cf-4afd-aa83-d290d3e8c50f/deploy-status)](https://app.netlify.com/sites/vkoushik/deploys)
 
