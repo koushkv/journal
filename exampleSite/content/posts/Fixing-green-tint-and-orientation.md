@@ -10,7 +10,7 @@ tags: ["Stereo Vision", "Computer Vision", "Arducam Stereo HAT"]
 categories: ["Stereo Camera"]
 ---
 
-Stereo cameras once connected to the _hat_, have to be calibrated before using it. There were a couple of issues that I encountered while calibrating. First one being the green tint on both sensors, IMX 219, and the second one being the incorrect orientation. However there was an error while running the calibration code, {{< notice error >}}mmal: Failed to fix lens shading, use the default mode!{{< /notice >}} but the code ran fine. There were several modes to choose from, I went with `mode 7` which gave the resolution of 1280 x 480.
+Stereo cameras once connected to the _hat_, have to be calibrated before using it. There were a couple of issues that I encountered while calibrating. First one being the green tint on both sensors, IMX 219, and the second one being the incorrect orientation. However there was an error while running the calibration code, {{< notice error >}}mmal: Failed to fix lens shading, use the default mode!{{< /notice >}} but the code ran just fine. There were several modes to choose from, I went with `mode 7` which gave the resolution of 1280 x 480.
 
 I had my camera setup exactly how it is shown [here](https://forum.arducam.com/t/several-problems-with-depth-mapping-need-to-fix-asap/1371/8).
 To fix the orientation, I just appended the lines after `fmt = camera.get_format()` on whichever code I was using.
