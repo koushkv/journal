@@ -1,6 +1,14 @@
-# Fixing green tint and orientation
-Tags: `Stereo Vision`, `Computer Vision`, `Arducam Stereo HAT`
-Categories: `Stereo Camera`
+ ---
+author: "Koushik"
+date: 2022-02-04
+#linktitle: MacOS on Hackintosh PC
+title: Fixing green tint and orientation
+weight: 10
+comments: true
+readingtime: true
+tags: ["Stereo Vision", "Computer Vision", "Arducam Stereo HAT"]
+categories: ["Stereo Camera"]
+---
 
 Stereo cameras once connected to the _hat_, have to be calibrated before using it. There were a couple of issues that I encountered while calibrating. First one being the green tint on both sensors, IMX 219, and the second one being the incorrect orientation. However there was an error while running the calibration code, `mmal: Failed to fix lens shading, use the default mode!` but the code ran fine. There were several modes to choose from, I went with `mode 7` which gave the resolution of 1280 x 480.
 
