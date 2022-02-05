@@ -1,11 +1,9 @@
 ---
-date: 2020-04-02
 #linktitle: First Post
-title: Projects
+title: Now
 weight: 10
-slug: projects
+slug: now
 comments: false
-tags: ["firstpost"]
 ---
 
 
