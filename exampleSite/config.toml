@@ -145,4 +145,4 @@ url = "categories/"
 [[languages.en.menu.main]]
 name = "Now"
 weight = 4
-url = "now/"
+url = "projects/"
