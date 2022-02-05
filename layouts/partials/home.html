@@ -10,9 +10,9 @@
     {{ end }}
     <h1>Hi,</h1>
     {{ if reflect.IsSlice .Site.Params.info }}
-    <h2>{{ range .Site.Params.info }} {{ . | markdownify }}<br>{{ end}}</h2>
+    <h3>{{ range .Site.Params.info }} {{ . | markdownify }}<br>{{ end}}</h3>
     {{ else }}
-    <h3>{{ .Site.Params.info }} {{ . | markdownify }}</h3>
+    <p>{{ .Site.Params.info }} {{ . | markdownify }}</p>
     {{ end }}
     {{ with .Site.Params.social }}
     <ul>
