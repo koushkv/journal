@@ -1,4 +1,4 @@
-baseURL = "https://vkoushik.netlify.app/"
+baseURL = "https://koushikv.netlify.app/"
 
 [module]
 [module.hugoVersion]
