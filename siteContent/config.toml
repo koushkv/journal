@@ -1,4 +1,4 @@
-baseURL = "http://vkoushik.netlify.app"
+baseURL = "http://koushikv.in"
 title = "Koushik V"
 theme = "hugo-coder"
 languageCode = "en"
