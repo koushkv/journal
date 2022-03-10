@@ -115,7 +115,7 @@ url = "https://gitlab.com/greyduck/"
 name = "Mail"
 icon = "fa fa-2x fa-envelope"
 weight = 1
-url = "mailto:koushikv.sssihl@gmail.com"
+url = "mailto:getintouch@koushikv.in"
 
 [[params.social]]
 name = "LinkedIn"
