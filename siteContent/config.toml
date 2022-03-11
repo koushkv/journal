@@ -1,4 +1,4 @@
-baseURL = "http://vkoushik.netlify.app"
+baseURL = "https://koushikv.in"
 title = "Koushik V"
 theme = "hugo-coder"
 languageCode = "en"
@@ -16,7 +16,7 @@ author = "Koushik V"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Koushik's personal website"
 keywords = "blog,developer,personal"
-info = ["Get up to date with my latest [posts](https://koushikv.netlify.app/posts), and see what I'm up to [now](https://koushikv.netlify.app/now)"]
+info = ["Get up to date with my latest [posts](https://koushikv.in/posts), and see what I'm up to [now](https://koushikv.in/now)"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -115,7 +115,7 @@ url = "https://gitlab.com/greyduck/"
 name = "Mail"
 icon = "fa fa-2x fa-envelope"
 weight = 1
-url = "mailto:koushikv.sssihl@gmail.com"
+url = "mailto:getintouch@koushikv.in"
 
 [[params.social]]
 name = "LinkedIn"

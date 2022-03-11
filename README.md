@@ -1,9 +1,9 @@
-# [Blog](https://vkoushik.netlify.app)
+# [Blog](https://koushikv.in)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/272327f2-f0cf-4afd-aa83-d290d3e8c50f/deploy-status)](https://app.netlify.com/sites/vkoushik/deploys)
 
 This is the source code for my personal website.
-You can see the site [here](https://vkoushik.netlify.app).
+You can see the site [here](https://koushikv.in).
 
 ## Development
 
