@@ -18,7 +18,7 @@ To fix the orientation, just appended the lines after `fmt = camera.get_format()
 camera.set_control(0x00980914,1)
 camera.set_control(0x00980915,1)
 ```
-This seemed to solve the problem although this was the [solution](https://forum.arducam.com/t/python3-6-dm-video-py-is-upside-down/1356) for a different case, that is if the cameras were reversed in the first place, which was not in my case.
+This seemed to solve the problem although this was the solution for a [different case](https://forum.arducam.com/t/python3-6-dm-video-py-is-upside-down/1356), that is if the cameras were reversed in the first place, which was not in my case.
 
 The green tint was solved by setting the AWB enable from the API.
 ```
